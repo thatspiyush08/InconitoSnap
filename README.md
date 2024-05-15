@@ -29,4 +29,4 @@ In the current digital ecosystem, the ubiquity of social media platforms has mad
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/incognito-snap.git
+   git clone https://github.com/thatspiyush08/InconitoSnap.git
