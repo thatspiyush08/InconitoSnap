@@ -3,7 +3,7 @@
 
 ## Overview
 
-In the current digital ecosystem, the ubiquity of social media platforms has made the sharing of personal images a norm. However, this widespread sharing raises significant privacy concerns, especially regarding the unwanted exposure of individuals' faces in publicly shared images. Incognito Snap seeks to address these concerns by developing a robust and user-friendly solution that automatically detects and anonymizes faces in images before they are uploaded to social media. The overarching goal is to enhance privacy without detracting from the user experience of social media platforms.
+In the current digital eco-system, the ubiquity of social media platforms has made the sharing of personal images a norm. However, this widespread sharing raises significant privacy concerns, especially regarding the unwanted exposure of individuals' faces in publicly shared images. Incognito Snap seeks to address these concerns by developing a robust and user-friendly solution that automatically detects and anonymizes faces in images before they are uploaded to social media. The overarching goal is to enhance privacy without detracting from the user experience of social media platforms.
 
 ## Key Features
 
