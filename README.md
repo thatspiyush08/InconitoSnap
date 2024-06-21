@@ -25,6 +25,13 @@ In the current digital eco-system, the ubiquity of social media platforms has ma
 6. **Integration with Existing Platforms**: Facilitating seamless integration with popular social media platforms to enhance user convenience.
 7. **Reliability**: Ensuring the solution performs consistently and reliably across various scenarios and image types.
 
+## Sample Outputs
+![image](https://github.com/thatspiyush08/InconitoSnap/assets/116754274/1d6018ed-d587-4bc0-a6d4-084f1ba69113)
+![image](https://github.com/thatspiyush08/InconitoSnap/assets/116754274/2af1b9f5-9f30-4631-bb2e-05e4e63f9c99)
+![image](https://github.com/thatspiyush08/InconitoSnap/assets/116754274/1607c8bf-dbd8-405b-95b4-c8bd424215f7)
+![image](https://github.com/thatspiyush08/InconitoSnap/assets/116754274/e3073e9a-bb29-4fef-8751-6d98e13f2c9e)
+
+
 ## Installation
 
 1. Clone the repository:
